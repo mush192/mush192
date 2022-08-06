@@ -4,6 +4,7 @@
 - 🤝 I love Python Programming, front-end web development.
 - 🌱 I’m currently learning backend web development.
 - 💬 Ask me about Python
-- 📫 How to reach me: Email: mushahiramuneer19@gmail.com
-- 😄 Pronouns: She
+- 📫 How to reach me: email@ mushahiramuneer19@gmail.com
+- 🌐 Connect with me: linkedIn: www.linkedin.com/in/mushahira-muneer
+- 😄 Pronouns: She/Her
 
